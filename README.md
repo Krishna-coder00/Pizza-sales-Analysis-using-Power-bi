@@ -6,3 +6,9 @@ OBJECTIVE
 * To assess customer demand patterns by examining total orders.
 * To identify top-selling and low-performing pizzas based on total orders and revenue contribution.
 * To analyse quarterly and monthly revenue performance and identify peak and low-performing periods.
+* To analyze pizza sales data to identify trends in revenue, orders, and customer preferences across categories and sizes.
+
+DASHBOARD
+<img width="1297" height="721" alt="pizza dashboard" src="https://github.com/user-attachments/assets/8bebae0a-94ec-416b-ab31-51d9c6f8c6f1" />
+<img width="1295" height="721" alt="pizza dashboard 2" src="https://github.com/user-attachments/assets/f20860eb-e4ac-48b6-be57-2514de90afc3" />
+
