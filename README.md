@@ -4,5 +4,5 @@ This project focuses on analyzing pizza sales data to uncover key business insig
 OBJECTIVE 
 * To derive actionable insights that support sales growth, product optimization, and strategic decision-making.
 * To assess customer demand patterns by examining total orders.
-*To identify top-selling and low-performing pizzas based on total orders and revenue contribution.
-*To analyse quarterly and monthly revenue performance and identify peak and low-performing periods.
+* To identify top-selling and low-performing pizzas based on total orders and revenue contribution.
+* To analyse quarterly and monthly revenue performance and identify peak and low-performing periods.
